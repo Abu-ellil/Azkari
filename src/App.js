@@ -1,25 +1,21 @@
-import logo from './logo.svg';
-import './App.css';
+import "bootstrap/dist/css/bootstrap.min.css";
+// import ContentList from "./Components/TotalZekr";
+import { Azkar } from "./Components/DataList";
+import NewList from "./Components/Newlist";
+import AzkarData from "./Components/AzkarData";
+
+
+
+
+
+const content = Azkar.content
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+  <>
+  <NewList/>
+  </>);
 }
+
 
 export default App;
