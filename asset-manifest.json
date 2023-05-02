@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Abu-ellil/Azkari/static/css/main.bef02670.css",
+    "main.js": "/Abu-ellil/Azkari/static/js/main.47f502e3.js",
+    "index.html": "/Abu-ellil/Azkari/index.html",
+    "main.bef02670.css.map": "/Abu-ellil/Azkari/static/css/main.bef02670.css.map",
+    "main.47f502e3.js.map": "/Abu-ellil/Azkari/static/js/main.47f502e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bef02670.css",
+    "static/js/main.47f502e3.js"
+  ]
+}
